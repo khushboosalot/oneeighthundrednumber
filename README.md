@@ -27,6 +27,7 @@ According to my dictionary.
 The number encoding on the phone the program will use is:
 
 DIGIT CHARACTERS
+
 2 A B C
 
 3 D E F
