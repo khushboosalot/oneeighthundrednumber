@@ -25,13 +25,20 @@ One possible line of output is
 CALL-ME
 According to my dictionary.
 The number encoding on the phone the program will use is:
+
 DIGIT CHARACTERS
 2 A B C
+
 3 D E F
+
 4 G H I
+
 5 J K L
-DIGIT CHARACTERS
+
 6 M N O
+
 7 P Q R S
+
 8 T U V
+
 9 W X Y Z
